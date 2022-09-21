@@ -2,7 +2,7 @@
 
 ## First Challenge for UT Full Stack Development Bootcamp
 
-This challenge is our first attempt in bootcamp at changing existing code to make it more accesible. There is also some refactoring of CSS styles in order to eliminate repetition and provide more clarity. 
+This challenge is for a fictional social media marketing company called "Horiseon." This assignment is the first challenge requiring bootcamp participants to analyze and change existing code. This entailed making the page more accesible with semantic HTML as well as refactoring CSS to make it more concise.
 
 ## Credits
 
