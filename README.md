@@ -1,12 +1,28 @@
-# ModuleOneChallenge
+# First Challenge for UT Full Stack Development Bootcamp
 
-## First Challenge for UT Full Stack Development Bootcamp
+## Refactoring Code for Accessibility 
 
-This challenge is for a fictional social media marketing company called "Horiseon." This assignment is the first challenge requiring bootcamp participants to analyze and change existing code. This entailed making the page more accesible with semantic HTML as well as refactoring CSS to make it more concise.
+This webpage for the fictional social media marketing company "Horiseon" was the first challenge for the UT-Austin Full Stack Web Development Bootcamp. The main goal was to refactor the front end of the web page to be more accessible by using semantic tags instead of the existing structure. 
+
+![Screenshot of Horiseon Webpage](./assets/images/Horiseon%20Project%20for%20UTA%20Bootcamp.png)
+
+
+
+## Changes Made and Lessons Learned
+
+While the Web is designed to work for all people, poor design can lead to problems for end users with different levels of abilities. In this project I replaced `<div>` tags with tags that provide additional context, such as `<header>`, `<section>`, and `<article>`. I also added `<alt>` tags to every image related to the content. (Note: Background images don't normally require `<alt>` tags unless the content of the background is essential. Icons can also simply have empty `<alt>` tags when they're accompanied by explanatory text, like the icons in the lower right sidebar.)
+
+I also refactored the CSS styles to eliminate redundancy while still keeping the visual requirements and best-practices for ordering of styles.
+
+___
+
 
 ## Credits
 
-The original code was created by staff of the UT Austin Full Stack Development Bootcamp. 
+The original code was created by staff of the UT Austin Full Stack Development Bootcamp. Thanks to Leah, Ian, Negin, and all the students who work with me daily to keep improving. 
+
+___
+
 
 ## License
 
