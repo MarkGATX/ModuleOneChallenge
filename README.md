@@ -19,7 +19,7 @@ ___
 
 ## Credits
 
-The original code was created by staff of the UT Austin Full Stack Development Bootcamp. Thanks to Leah, Ian, Negin, and all the students who work with me daily to keep improving. 
+The original code was created by staff of the UT Austin Full Stack Development Bootcamp. Thanks to Leah, Ian, Negin, Diem, and all the students who work with me daily to keep improving. 
 
 ___
 
